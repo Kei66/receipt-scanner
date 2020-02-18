@@ -16,4 +16,6 @@ A machine learning implementation of OCR
 
 > ### Usage:
 > In repository root directory:  
-> `python crnn_processor.py --image [IMAGE_PATH]`
+> `python crnn_processor.py --img [IMAGE_PATH]`
+>
+>`EXAMPLE: python crnn_processor.py --img test.png`
