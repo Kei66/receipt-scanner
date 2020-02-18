@@ -3,7 +3,7 @@ A machine learning implementation of OCR
 [Project report of original authors](project_report.pdf)
 
 > ### Development Environment
-> Python 3+
+> Python>3, <3.6
 
 > ### Installation:
 > Clone Repository  
